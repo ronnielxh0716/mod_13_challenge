@@ -1,0 +1,1 @@
+var MAPBOX_API = "pk.eyJ1IjoiYW1pcmFoMjEyIiwiYSI6ImNrbTVrenR3ZTBmZGQycHVzM2x5ZnY0ZzIifQ.zOK4m_pYfk5RFNGYPLFVxg"
